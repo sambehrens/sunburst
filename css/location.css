@@ -1,0 +1,22 @@
+
+#centerContent {
+    margin: 30px auto 0 auto;
+    width: 790px;
+}
+
+#addressContainer {
+    float: right;
+    margin: 50px 0 50px 0;
+    height: 350px;
+    border-left: 3px solid #7F543F;
+    padding-left: 20px;
+}
+
+#address {
+    margin-top: 130px;
+}
+
+#pageHeader {
+    height: 250px;
+    background-image: url("../images/locationHead.png");
+}
